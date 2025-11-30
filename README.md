@@ -31,7 +31,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/aryangupta4088/your-portfolio-repo.git](https://github.com/aryangupta4088/your-portfolio-repo.git)
+    git clone [https://github.com/aryangupta4088/portfolio.git](https://github.com/aryangupta4088/portfolio.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
