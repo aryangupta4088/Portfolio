@@ -4,10 +4,6 @@ Welcome to my personal portfolio! I am Aryan Gupta, a passionate and self-driven
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Computer Science Engineering student specializing in AI & ML. It's designed with a modern, dark-themed aesthetic featuring glassmorphism and smooth animations.
 
-## 🚀 Live Demo
-
-**[Insert your live demo link here if available]**
-
 ## ✨ Features
 
 * **Modern Glassmorphism Design:** A clean, dark interface with frosted glass elements and glowing gradients.
@@ -35,7 +31,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-portfolio-repo
+    cd Portfolio.git
     ```
 3.  **Open `index.html` in your browser:**
     You can do this by double-clicking the file or right-clicking and selecting "Open with..." and choosing your preferred web browser.
